@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.examen01.Examen01ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.787 s -- in com.example.examen01.Examen01ApplicationTests
